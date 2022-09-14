@@ -6,7 +6,7 @@ Master Substrate
 
 ### Fundamentals
 
-- [ ] [Blockchain basics](https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/)
+- [x] [Blockchain basics](https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/)
 - [ ] [Why Substrate?](https://docs.substrate.io/main-docs/fundamentals/why-substrate/)
 - [ ] [Architecture](https://docs.substrate.io/main-docs/fundamentals/architecture/)
 - [ ] [Networks and blockchains](https://docs.substrate.io/main-docs/fundamentals/node-and-network-types/)
