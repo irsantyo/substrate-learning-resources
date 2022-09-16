@@ -7,10 +7,10 @@ Master Substrate
 ### Fundamentals
 
 - [x] [Blockchain basics](https://docs.substrate.io/main-docs/fundamentals/blockchain-basics/)
-- [ ] [Why Substrate?](https://docs.substrate.io/main-docs/fundamentals/why-substrate/)
-- [ ] [Architecture](https://docs.substrate.io/main-docs/fundamentals/architecture/)
-- [ ] [Networks and blockchains](https://docs.substrate.io/main-docs/fundamentals/node-and-network-types/)
-- [ ] [Runtime development](https://docs.substrate.io/main-docs/fundamentals/runtime-intro)
+- [x] [Why Substrate?](https://docs.substrate.io/main-docs/fundamentals/why-substrate/)
+- [x] [Architecture](https://docs.substrate.io/main-docs/fundamentals/architecture/)
+- [x] [Networks and blockchains](https://docs.substrate.io/main-docs/fundamentals/node-and-network-types/)
+- [x] [Runtime development](https://docs.substrate.io/main-docs/fundamentals/runtime-intro)
 - [ ] [Consensus](https://docs.substrate.io/main-docs/fundamentals/consensus/)
 - [ ] [Transactions and block basics](https://docs.substrate.io/main-docs/fundamentals/transaction-types/)
 - [ ] [Transaction Lifecycle](https://docs.substrate.io/main-docs/fundamentals/transaction-lifecycle/)
